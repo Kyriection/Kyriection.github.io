@@ -2,8 +2,8 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Allen # the website title (if blank, full name will be used instead)
-first_name: Zhenyu
+title: blank # the website title (if blank, full name will be used instead)
+first_name: Zhenyu "Allen"
 middle_name: 
 last_name: Zhang
 email: zhenyu.zhang@utexas.edu
